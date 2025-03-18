@@ -1,4 +1,4 @@
-# 📊 Sales Analysis using PowerBI  
+# 📊 Sales Data Analysis using PowerBI  
 
 ## Overview  
 This Power BI dashboard provides insights into sales performance, revenue trends, and customer analytics. It includes visualizations of key metrics such as:  
