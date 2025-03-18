@@ -24,6 +24,15 @@ This Power BI dashboard provides insights into sales performance, revenue trends
 - **Revenue plots**: Graphs to get insights about any filter query.
 
 ---
+## Steps involved in creating the Dashboard:
+- Loading of Data from sql **dump file** to local SQL database.
+- Data cleaning and filtering through **Data Transformation** in PowerBI.
+- Connecting the excel sheets of the data in the **"model view"** section in PowerBI. (Screenshot attached below)
+![Image](https://github.com/user-attachments/assets/9e7bd341-a32d-4ab4-9708-8f3aa52ed7eb)
+- Creating required base measures and then selecting data visualization options to get the insights easily.
+- Labelling each plot and axes, using legends to get the best contrast through the data.
+
+---
 
 ## 📂 Files in this Repository  
 | File Name             | Description                         |
